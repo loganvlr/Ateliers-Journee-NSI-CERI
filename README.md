@@ -1,2 +1,2 @@
-# Programmes Atelier Cybersécurité du 5 décembre à l'occasion de la journée sur NSI
-**Ici vous trouverez les fichiers contenant l'application qui permettra aux étudiants de chercher les mots de passes dans le cadre de l'atelier sur la cybersécurité.**
+# Programmes Atelier Cybersécurité
+**Ici vous trouverez les fichiers contenant l'application qui permettra aux étudiants de chercher les mots de passes dans le cadre de l'atelier sur la cybersécurité du 5 décembre à l'occasion de la journée sur NSI.**
